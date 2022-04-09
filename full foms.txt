@@ -2,9 +2,13 @@ GOOGLE: Global Organization of Oriented Group Language of Earth.
 YAHOO : Yet Another Hierarchical Officious Oracle
 BING  : Because It's Not Google
 
-
+IAS:Indian Adminstrative Services:
+IPS:Indian SPolice Services.
 
 Thank you  :)
 
+Done with my hanges,FInal I abbrevatiosn list
+
 
 AFter meking a branch,Final version main
+
